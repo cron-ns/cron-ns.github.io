@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-index-page-js",
+    "path": "/topic/distributed_system",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"path":"/blog/my-first-post","topic":"distributed_system","abstract":"initial set up","title":"Distributed System (1) Introduction","date":"2022-01-01","author":"JS-Ng"}}}]}},"pageContext":{"topic":"distributed_system"}},
+    "staticQueryHashes": ["2744905544","3649515864"]}
