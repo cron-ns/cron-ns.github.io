@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-markdown-index-js",
     "path": "/blog/docker-in-general",
-    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"path":"/blog/docker-in-general","title":"Docker in general","author":"JS-Ng","date":"2022-01-03","topic":"docker"}}},"pageContext":{}},
+    "result": {"data":{"markdownRemark":{"html":"","frontmatter":{"path":"/blog/docker-in-general","title":"Docker in general","author":"cron-ns","date":"2022-01-03","topic":"docker"}}},"pageContext":{}},
     "staticQueryHashes": ["2744905544","3649515864"]}

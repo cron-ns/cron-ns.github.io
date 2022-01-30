@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-markdown-index-js",
     "path": "/blog/my-first-post",
-    "result": {"data":{"markdownRemark":{"html":"<h2>Conclusion</h2>","frontmatter":{"path":"/blog/my-first-post","title":"Distributed System (1) Introduction","author":"JS-Ng","date":"2022-01-01","topic":"distributed_system"}}},"pageContext":{}},
+    "result": {"data":{"markdownRemark":{"html":"<h2>Conclusion</h2>","frontmatter":{"path":"/blog/my-first-post","title":"Distributed System (1) Introduction","author":"cron-ns","date":"2022-01-01","topic":"distributed_system"}}},"pageContext":{}},
     "staticQueryHashes": ["2744905544","3649515864"]}

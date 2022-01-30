@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-index-page-js",
     "path": "/topic/distributed_system",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"path":"/blog/my-first-post","topic":"distributed_system","abstract":"initial set up","title":"Distributed System (1) Introduction","date":"2022-01-01","author":"JS-Ng"}}},{"node":{"frontmatter":{"path":"/blog/docker-in-general","topic":"docker","abstract":"The sufficient preliminary knowledge before using docker","title":"Docker in general","date":"2022-01-03","author":"JS-Ng"}}}]}},"pageContext":{"topic":"distributed_system"}},
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"path":"/blog/my-first-post","topic":"distributed_system","abstract":"initial set up","title":"Distributed System (1) Introduction","date":"2022-01-01","author":"cron-ns"}}},{"node":{"frontmatter":{"path":"/blog/docker-in-general","topic":"docker","abstract":"The sufficient preliminary knowledge before using docker","title":"Docker in general","date":"2022-01-03","author":"cron-ns"}}}]}},"pageContext":{"topic":"distributed_system"}},
     "staticQueryHashes": ["2744905544","3649515864"]}
